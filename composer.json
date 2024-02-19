@@ -1,0 +1,9 @@
+{
+    "require": {
+        "leafs/leaf": "^3.0",
+        "leafs/vite": "^0.1.0",
+        "leafs/bareui": "^1.1",
+        "leafs/blade": "^2.0",
+        "appwrite/appwrite": "^10.1"
+    }
+}
